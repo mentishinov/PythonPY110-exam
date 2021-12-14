@@ -1,0 +1,1 @@
+MODEL: str = 'shop_final.book'
